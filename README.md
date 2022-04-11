@@ -1,5 +1,3 @@
-![IT Consulting](https://github.com/llevi95/llevi95/blob/main/Levente%20Luk%C3%A1cs%20(1).png)
-
 # Levente Lukács
 I'm Levente from Hungary, and I do IT Consulting. I really enjoy learning about data science, and working with databases. I also enjoy perfecting my automation skills for my own projects.
 
@@ -8,6 +6,8 @@ I'm Levente from Hungary, and I do IT Consulting. I really enjoy learning about 
 * 💻 Python
 * 💻 Perl
 * 💻 HTML/CSS
+
+## Current Projects
 
 - 🔭 I’m currently working on DWH test management of major banks 
 
