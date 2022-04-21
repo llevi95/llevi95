@@ -6,6 +6,7 @@ I'm Levente from Hungary, and I do IT Consulting. I really enjoy learning about 
 * 💻 Python
 * 💻 Perl
 * 💻 HTML/CSS
+* 💻 JavaScript
 
 ## Current Projects
 
