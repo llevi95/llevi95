@@ -16,7 +16,7 @@ I'm from Hungary, and I do IT Consulting. I really enjoy learning about data sci
 [<img align="left" alt="PERL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/perl.svg" />](https://www.perl.org/)
 [<img align="left" alt="GIT" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/git.svg" />](https://git-scm.com/)
 
-## Want to connect?
+### Want to connect?
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='40px'/>](https://www.linkedin.com/in/leventelukács/)  
 
