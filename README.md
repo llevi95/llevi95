@@ -5,8 +5,6 @@ I'm from Hungary, and I do IT Consulting. I really enjoy learning about data sci
 - 🌱 I’m currently learning Data science 
 - 🤔 I’m looking for help with Numpy 
 
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="VSC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/visualstudiocode.svg" />](https://code.visualstudio.com/)
