@@ -1,12 +1,11 @@
-![](https://i.postimg.cc/4xYwfFCD/1-9onq-VYd-PPr-Ccw-DX6m-GKCpg.jpg)
-# Hi there👋, I'm Levi
+# Hi there 👋, I'm Levi
 I'm Levente from Hungary, and I do IT Consulting. I really enjoy learning about data science, and working with databases. I also enjoy perfecting my automation skills for my own projects.
 
 - 🔭 I’m currently working on DWH test management of major banks 
 - 🌱 I’m currently learning Data science 
 - 🤔 I’m looking for help with Numpy 
 
-
+## Want to connect?
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='40px'/>](https://www.linkedin.com/in/leventelukács/)  
 
