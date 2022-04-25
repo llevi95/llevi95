@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Levi
-I'm Levente from Hungary, and I do IT Consulting. I really enjoy learning about data science, and working with databases. I also enjoy perfecting my automation skills for my own projects.
+I'm from Hungary, and I do IT Consulting. I really enjoy learning about data science, and working with databases. I also enjoy perfecting my automation skills for my own projects.
 
 - 🔭 I’m currently working on DWH test management of major banks 
 - 🌱 I’m currently learning Data science 
