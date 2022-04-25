@@ -19,7 +19,7 @@ I'm Levente from Hungary, and I do IT Consulting. I really enjoy learning about 
 
 ### Languages and Tools:
 
-[<img align="left" alt="VSC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/visualstudiocode.svg" />][https://code.visualstudio.com/]
+[<img align="left" alt="VSC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/visualstudiocode.svg" />](https://code.visualstudio.com/)
 [<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/postgresql.svg" />]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/python.svg" />]
 [<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/html5.svg" />]
