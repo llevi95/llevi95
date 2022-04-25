@@ -17,3 +17,4 @@ I'm Levente from Hungary, and I do IT Consulting. I really enjoy learning about 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='40px'>](https://github.com/llevi95)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='40px'>](https://www.linkedin.com/in/leventelukács/)  
 
+<br />
