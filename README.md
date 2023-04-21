@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Levi
-I'm from currently based in Austria, and I do data analytics/engineering. I really enjoy learning about data science, and working with databases. I also enjoy perfecting my automation skills for my own projects.
+I'm from currently based in Vienna, and I do data analytics/engineering. I really enjoy learning about data science, and working with databases. I also enjoy perfecting my automation skills for my own projects.
 
 - 🔭 I’m currently Internal server migration 
 - 🌱 I’m currently learning Data science 
