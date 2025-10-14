@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m doing my masters in AI System engineering<br>🔭 I’m currently working on my own datawarehouse project<br>⚡ Fun fact: Unhealthy obsession with Breakinn Bad
+🎓 I’m doing my masters in AI System Engineering<br>🔭 I’m currently working on my own datawarehouse project<br>⚡ Fun fact: Unhealthy obsession with Breakinn Bad
 
 
 ## 🌐 Socials:
